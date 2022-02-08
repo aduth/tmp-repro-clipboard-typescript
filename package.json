@@ -1,0 +1,14 @@
+{
+  "name": "tmp-repro-clipboard-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "clipboard-polyfill": "^3.0.3"
+  }
+}
